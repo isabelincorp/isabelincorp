@@ -16,4 +16,4 @@ Just a random linux nerd on the internet that happens to be named Isabel.
      - Adobe Products
      
 ## Where to find me on other plaforms (Temp)
-(Carrd)[https://isabelinc.carrd.co/]
+[Carrd](https://isabelinc.carrd.co/)
