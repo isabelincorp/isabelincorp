@@ -6,7 +6,7 @@
 ### Who am I?
 Just a random linux nerd on the internet that happens to be named Isabel.
 
-### What I happen to use on daily basis.
+### What I happen to use on a daily basis.
 1. Arch Linux
      - AwesomeWM
      - Vscodium
